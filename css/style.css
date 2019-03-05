@@ -13,7 +13,8 @@
     color:#ffffff;
     font-family:Helvetica, serif;
     font-weight:100;
-    background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk0PxfDwADAgGpOplSlwAAAABJRU5ErkJggg==), url(../bg1.jpg);
+    background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mPU0/vvDwADmQGsJn4ATAAAAABJRU5ErkJggg==),url(../bg1.jpg);
+    background-color: #000;
     background-attachment:scroll, scroll;
     background-position:left top, center center;
     background-repeat:repeat, no-repeat;
@@ -62,8 +63,9 @@
     text-align:center;
     letter-spacing:3px;
     line-height:30px;
-    background-color:#d983a6;
+    background-color: #ffe122;
     border-radius:5px;
+    color: #000;
     transition:all 0.5s ease;
     cursor:pointer;
 }
